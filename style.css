@@ -1,0 +1,205 @@
+@font-face {
+    font-family: police1;
+    src: url(fonts/Satoshi-Bold.otf);
+}
+
+@font-face {
+    font-family: police2;
+    src: url(fonts/Poppins-Regular.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#wrap{
+    width: 1000px;
+    height: 680px;
+}
+#header{
+    width: 900px;
+    height: 100px;
+}
+
+#header>#ex1{
+    float: left;
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 12px;
+    position: relative;
+    top: 20px;
+    left: 40px;
+
+}
+
+#header>#ex2{
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 12px;
+    position: relative;
+    top: 20px;
+    left: 320px;
+    line-height: 2;
+}
+
+#header>#ex3{
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 12px;
+    position: relative;
+    top: -55px;
+    left: 1170px;
+    line-height: 2;
+    
+}
+
+#slide{
+    width: 1000px;
+    height: 250px;
+}
+
+a {
+    text-decoration: none;}
+.cir1{
+    width: 8px;
+    height:8px;
+    background-color: rgb(91, 185, 71);
+    border-radius: 50%;
+    position: relative;
+    left: 108px;
+    top: 80px;
+}
+
+.cir2{
+    width: 8px;
+    height:8px;
+    background-color: rgb(91, 185, 71);
+    border-radius: 50%;
+    position: relative;
+    left: 758px;
+    top: 3px;
+}
+.cir3{
+    width: 8px;
+    height:8px;
+    background-color: rgb(91, 185, 71);
+    border-radius: 50%;
+    position: relative;
+    left: 1315px;
+    top: -125px;
+}
+
+#a1{
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 11px;
+    position: relative;
+    left: 400px;
+    top: 70px;
+}
+
+#a2{
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 11px;
+    position: relative;
+    left: 300px;
+    top: 330px;
+}
+
+#a3{
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 11px;
+    position: relative;
+    left: 1000px;
+    top: 50px;
+}
+
+#a4{
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 11px;
+    position: relative;
+    left: 1000px;
+    top: 350px;
+}
+#text1{
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 11px;
+    position: relative;
+    left: 120px;
+    top: 75px;
+}
+#o1{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 140px;
+    top: 20px;
+}
+
+
+
+#text2{
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 11px;
+    position: relative;
+    left: 770px;
+    top: -17px;
+}
+
+
+#o2{
+    width: 170px;
+    height: 170px;
+    position: relative;
+    left: 600px;
+    top: -50px;
+}
+
+#text3{
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 11px;
+    position: relative;
+    left: 1250px;
+    top: -130px;
+}
+
+#o3{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 1130px;
+    top: -150px;
+}
+
+
+#footer{
+    width: 1000px;
+    height: 100px;
+    background-color: white;
+}
+
+#footer>#main{
+    float: left;
+    color: rgb(91, 185, 71);
+    font-family: police1;
+    font-size: 350%;
+    position: relative;
+    top: 250px;
+    left: 30px;
+}
+
+#footer>#name{
+    color: rgb(91, 185, 71);
+    font-family: police2;
+    font-size: 90%;
+    position: relative;
+    top: 300px;
+    left: 570px;
+}
